@@ -1,0 +1,85 @@
+a{
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+}
+  address {
+    font-style: normal;
+  }
+  .logo{
+    font-family:Roboto;
+font-size: 30px;
+font-weight: 700;
+line-height: 37px;
+letter-spacing: 0em;
+text-align: left;
+color: #95E1D3;
+}
+header{
+    padding-bottom: 60px;
+    margin-bottom: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.nav-list-link{
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #95E1D3;
+}
+.nav-list-link:hover{
+    color: #F38181;
+    transition: 0,6s;
+}
+.nav-list{
+    display: flex;
+    gap: 50px;
+    margin-left: 632px;
+}
+.text-list{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.text-list-text1{
+    font-family: Kaushan Script;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 35px;
+    letter-spacing: 0em;
+    text-align: left;    
+}
+.text-list-text2{
+    font-family: Roboto;
+font-size: 30px;
+font-weight: 700;
+line-height: 37px;
+letter-spacing: 0em;
+text-align: left;
+}
+.work-list-text2{
+    font-family: Roboto;
+font-size: 15px;
+font-weight: 400;
+line-height: 22px;
+letter-spacing: 0em;
+text-align: left;
+    color: #B6B6B6;
+}
+.work-list-text1{
+font-family: Montserrat;
+font-size: 14px;
+font-weight: 400;
+line-height: 17px;
+letter-spacing: 0em;
+text-align: left;
+}
+.work-list{
+    width: 331px;
+}
